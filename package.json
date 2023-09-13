@@ -34,7 +34,7 @@
   "author": "studio-freight",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/studio-freight/lenis.git"
+    "url": "git+https://github.com/Kunalsonar007/KrazyyKunal-Portfolio.git"
   },
   "scripts": {
     "dev": "npm-run-all --parallel watch dev:website",
